@@ -1,3 +1,5 @@
+> This exercise belongs to https://github.com/goncy
+
 # Ejercicio de entrevista, migrado libre
 
 Don Miguel lleva 10 años vendiendo por Mercado Libre, pero tiene un problema, el padece de [xantofobia](https://www.autopista.es/planeta2030/es-xantofobia_269191_102.html#:~:text=La%20xantofobia%20se%20refiere%20al,sea%20o%20contenga%20este%20tono.) (miedo al color amarillo), por lo que entrar a la web de Mercado Libre le produce un stress muy grande.
